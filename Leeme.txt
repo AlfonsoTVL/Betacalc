@@ -1,0 +1,7 @@
+#Cal
+
+Este es un ejercicio de prueba de uso del comando git y el portal GitHub
+
+Empaquetamos un proyecto simple, en este primer ejercicio una calculadora.
+
+Como aun no sé como funciona, poco mas añadiré en este "leeme"
